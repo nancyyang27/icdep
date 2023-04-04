@@ -1,10 +1,8 @@
 ## Extension
 ### How can we add additional features to the protocol without breaking previous functionality?
 * Send to any individual on the whole UW campus
-  For this part, we can give each individual on UW campus a
-  
-  
-  
+
+  For this part, I think for a reliable network we should focus on efficiently and reliably transmit data packets from the source to the destination, while minimizing delay, packet loss, and other network-related issues. Moreover, we could have different factors and evulating different features of the intermediary nodes(individuals on the UW campus) to see which is a more safer route. We can also optimize our exisiting network topology by reorganizing the relative distances (positions) of each individual on the campus.
   
 * Specify whether contents are ASCII text, Unicode text, or binary values
 
